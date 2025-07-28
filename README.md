@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hallo o// I'm Douglas!! ✨
+
+I try to create games and some other stuff sometimes.
+
+Here's my itch.io profile if you want to see some of my games: [douglas-asted.itch.io](https://douglas-asted.itch.io)
+
+<hr>
+
+I'm also from ✨ Brazil ✨
 
 <!--
 **douglasasted/douglasasted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
